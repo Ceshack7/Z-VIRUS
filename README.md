@@ -9,6 +9,6 @@ pkg install git
 
 git clone https://github.com/Ceshack7/Z-VIRUS
 
-cd z-virus.py
+cd Z-VIRUS
 
 python z-virus.py
