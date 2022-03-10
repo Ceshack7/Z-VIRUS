@@ -3,9 +3,9 @@
 ~~~
 pkg upgrade
 
-pkg intall
+pkg intall python
 
-pkg git
+pkg install git
 
 git clone https://github.com/Ceshack7/Z-VIRUS
 
