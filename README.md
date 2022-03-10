@@ -1,5 +1,5 @@
 # Z-VIRUS
-*simulación de virus pará espantar a noobs*
+*simulación de virus pará espantar a noobs,*
 *si quieres parar con la simulación tienes que apretar CTRL+Z* 
 ~~~
 pkg upgrade
